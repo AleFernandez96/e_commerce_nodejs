@@ -20,20 +20,20 @@ Esta es una aplicación web de comercio electronico desarrollada principalmente 
 + [JQuery](https://jquery.com/)
 + Otros
 
-##Requerimientos
+## Requerimientos
 
 Descargue e instale node.js
 + [Node.js](https://nodejs.org/es/)
 
-##Instalación
+## Instalación
 
-##Clon
+## Clon
 
 Clona este repositorio a tu maquina local usando:
 
     $git clone https://github.com/AleFernandez96/e_commerce_nodejs.git
 
-##Configuración de base de datos
+## Configuración de base de datos
 
     Para poder iniciar la aplicación web de forma correcta debes crear una base de datos y un usuario y agregar la configuración en el archivo app.js
 
